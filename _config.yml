@@ -81,13 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Lucca Pavan"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "Captura de Tela 2021-04-08 às 13.53.05.png"
+  bio              : "Doutor em economia pela UFPR 
+Sócio na Maza Asset management
+Data Engineering Consultant na Lalist"
+  location         : "Rio Claro, SP - Brasil"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "luccapavan@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "luccapavan"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "pavan_lucca"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/lucca-simeoni-pavan-ph-d-a1b70163/"
+  orcid            : "https://orcid.org/0000-0002-9033-3233"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "lspavan"
   vine             :
   weibo            :
   xing             :
