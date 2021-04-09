@@ -13,7 +13,7 @@ name                     : &name "Lucca Pavan"
 description              : &description "Data Science Economist"
 url                      : https://luccapavan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "luccapavan/luccapavan.github.io"
+repository               : "luccapavan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,8 +87,8 @@ Sócio na Maza Asset management
 Data Engineering Consultant na Lalist"
   location         : "Rio Claro, SP - Brasil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "luccapavan@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
