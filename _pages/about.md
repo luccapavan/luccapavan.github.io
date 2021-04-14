@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Sou um economista e adorador de Ciência de Dados. Presto serviços de consultoria na área de Economia e Estatística, predominantemente com a aplicação de modelos Econométricos ou de Machine Learning para a solução de problemas práticas de empresas, ou auxiliando projetos de pesquisa de indivíduos ou intituições.
+Sou um economista e adorador de Ciência de Dados. Presto serviços de consultoria na área de Economia e Estatística, predominantemente com a aplicação de modelos Econométricos ou de Machine Learning para a solução de problemas práticos de empresas, ou auxiliando projetos de pesquisa de indivíduos ou intituições.
 
-A data-driven personal website
+Atividades Recentes
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
