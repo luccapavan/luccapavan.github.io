@@ -1,7 +1,48 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Exemplo Logística"
+author: "Lucca Pavan"
+date: "08/04/2021"
+output: html_document
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(boot) # package with the simplex function
+library(tidyverse)
+```
+
+```{r}
+`Carga` <- sample(seq(500,1000,10), 100, replace = TRUE) # em mil kilos
+`Tempo no cliente` <-  0.15 * `Carga` + rnorm(100, 30,30) # em minutos
+Dados <- tibble(`Tempo no cliente`, `Carga`)
+head(Dados)
+```
+
+```{r}
+regressao <- lm(`Tempo no cliente` ~ Carga, Dados)
+summary(regressao)
+ggplot(Dados, aes(`Carga`, `Tempo no cliente`))+
+  geom_point()+
+  geom_smooth(method='lm')
+```
+```{r}
+Dados$chuva <- Dados$`Tempo no cliente` > 150
+write.csv(Dados, "Dados.csv")
+head(Dados)
+regressao2 <- lm(`Tempo no cliente` ~ Carga + chuva, Dados)
+summary(regressao2)
+```
+```{r}
+ggplot(Dados, aes(`Carga`, `Tempo no cliente`, colour = chuva))+
+  geom_point()+
+  geom_smooth(method='lm')
+```
+
+
+
+```{r}
+ggplot(Dados, aes(`Carga`, `Tempo no cliente`))+
+  geom_point()+
+  geom_smooth(method='lm')+
+    facet_wrap(~chuva)
+```
