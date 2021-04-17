@@ -12,8 +12,8 @@ redirect_from:
 Formação
 ======
 * Ph.D (Economia) na Universidade Federal do Paraná, 2019
-* M.S. (Economia) na Universidade Estadul de Maringá, 2013
-* B.S. (Economia) na universidade Estadual de Londrina, 2009
+* M.S. (Economia) na Universidade Estadual de Maringá, 2013
+* B.S. (Economia) na Universidade Estadual de Londrina, 2009
 
 Experiência
 ======
