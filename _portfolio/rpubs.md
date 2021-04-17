@@ -4,4 +4,4 @@ excerpt: "Você pode conferir mais trabalhos em meu perfil no Rpubs.<br/><img sr
 collection: portfolio
 ---
 
-Meu perfil no [Rpubs](https://rpubs.com/mitolsp)
+Meu perfil no <a href="Rpubs" target="_blank">https://rpubs.com/mitolsp</a>
