@@ -8,8 +8,7 @@ date: 2018/02 - 2019/01
 location: "Cornélio Procópio, Brasil"
 ---
 
-Matérias
-======
+**Matérias**
 
 * Economia
 * Análise de Custos Industriais
