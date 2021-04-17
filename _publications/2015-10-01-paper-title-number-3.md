@@ -13,4 +13,3 @@ Neste artigo, buscou-se estudar as transmissões de volatilidade de preços entr
 
 [Download do artigo](https://www.scielo.br/pdf/resr/v58n3/0103-2003-resr-58-3-e193763.pdf)
 
-Citação recomendada: CARVALHO, João Carlos de; PAVAN, Lucca Simeoni; HASEGAWA, Marcos Minoru. Transmissões de volatilidade de preços entre Commodities agrícolas brasileiras. Rev. Econ. Sociol. Rural,  Brasília ,  v. 58, n. 3,  e193763,    2020 .   Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-20032020000300214&lng=en&nrm=iso>. access on  17  Apr.  2021.  Epub July 31, 2020.  http://dx.doi.org/10.1590/1806-9479.2020.193763.
