@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Neste artigo, buscou-se estudar as transmissões de volatilidade de preços entre commodities agrícolas brasileiras, mais especificamente o etanol, o açúcar e a soja. Fez-se o uso de dados diários entre 25 de janeiro de 2010 e 28 de dezembro de 2018, obtidos no CEPEA.'
 date: 2015-10-01
-venue: 'Revista de Economia e Sociologia Rural,'
+venue: 'Revista de Economia e Sociologia Rural'
 paperurl: 'https://www.scielo.br/scielo.php?pid=S0103-20032020000300214&script=sci_arttext'
 citation: 'CARVALHO, João Carlos de; PAVAN, Lucca Simeoni; HASEGAWA, Marcos Minoru. Transmissões de volatilidade de preços entre Commodities agrícolas brasileiras. Rev. Econ. Sociol. Rural,  Brasília ,  v. 58, n. 3,  e193763,    2020 .'
 ---
