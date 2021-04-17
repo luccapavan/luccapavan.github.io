@@ -17,12 +17,12 @@ Formação
 
 Experiência
 ======
-* 2021 - atual. Data Economist
+* 2021 - atual: Data Economist
   * Empresa: Lalist
   * Atividades: Pesquisa em Estatística, Econometria e Machine Learning aplicados à Logística
   * Supervisor: Felipe Baulé
 
-* 2019 - Atual: Sócio e Head de Pesquisa
+* 2019 - atual: Sócio e Head de Pesquisa
   * Empresa: Maza Asset Management
   * Atividades: Pesquisa em Estatística, Econometria e Machine Learning aplicados à Gestão de Investimentos
   * Supervisor: Abner Lima de Oliveira
