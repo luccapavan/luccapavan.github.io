@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Experiência de Ensino"
 collection: teaching
-type: "Undergraduate course"
+type: "Curso de Graduação"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidade Federal Tecnológica do Paraná"
+date: 2018/02 - 2019/01
+location: "Cornélio Procópio, Brasil"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
