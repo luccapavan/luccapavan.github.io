@@ -14,6 +14,6 @@ Minha página pessoal: <a href="https://www.luccapavaneconomista.com.br/" target
 
 Atividades Recentes
 ======
-Atualmente Sou sócio na <a href="https://mazainvest.com.br/" target="_blank">Maza Asset Management</a>, uma gestora de recursos de terceiros especializada em construir uma carteira e administrar os investimentos em nome do cliente. Isso mesmo, pessoas que querem investir e querer fazê-lo da melhor maneira possível contratam um serviço especializado nisso.
+Atualmente Sou sócio na <a href="https://mazainvest.com.br/" target="_blank">Maza Asset Management</a>, uma gestora de recursos de terceiros especializada em construir uma carteira e administrar os investimentos em nome do cliente. Isso mesmo, pessoas que pretendem investir e querem fazê-lo da melhor maneira possível contratam um serviço especializado nisso.
 
 No momento também sou Engenheiro de Dados na <a href="https://lalist.com.br/" target="_blank">Lalist</a> , uma empresa que desenvolve sistemas de compras digitais customizados, além de prestar serviços de consultoria em inovação. Se você precisa de um e-commerce customizado ou de novas ideias para melhorar os processos e produtos de sua empresa, é da Lalist que você precisa.
