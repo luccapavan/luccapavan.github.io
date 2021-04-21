@@ -1,5 +1,5 @@
 ---
-title: "Experiência de Ensino"
+title: "Economia e Finanças"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/adm_eco_utfpr
