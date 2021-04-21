@@ -1,5 +1,5 @@
 ---
-title: "Experiência de Ensino"
+title: "Métodos Quantitativos"
 collection: teaching
 type: "Graduação"
 permalink: /teaching/calc_est_utfpr
