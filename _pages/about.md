@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sou um economista e adorador de Ciência de Dados. Presto serviços de consultoria na área de Economia e Estatística. Aplico modelos Econométricos ou de Machine Learning para a solução de problemas práticos de empresas, ou auxiliando projetos de pesquisa de indivíduos ou instituições. Se a descrição pareceu generalista demais, sugiro navegar pelas próximas páginas para que me entenda melhor. Podemos ainda marcar uma conversa! Seria um prazer conhecê-lo.
+Sou um economista e adorador de Ciência de Dados. Presto serviços de consultoria na área de Economia e Estatística. Aplico modelos Econométricos ou de Machine Learning para a solução de problemas práticos de empresas, ou auxiliando projetos de pesquisa de indivíduos ou instituições. Se a descrição pareceu generalista demais, sugiro navegar pelas próximas páginas para que me entenda melhor. Podemos ainda marcar uma conversa! Seria um prazer conhecê-lo(a).
 
 Minha página pessoal: <a href="https://www.luccapavaneconomista.com.br/" target="_blank">www.luccapavaneconomista.com.br</a>
 
