@@ -17,12 +17,17 @@ Formação
 
 Experiência
 ======
-* 2021 - atual: Data Economist
+* 2021/05 - atual  : Analista de Modelagem e Risco
+  * Empresa: Constância Investimentos
+  * Atividades: Pesquisa em Estatística, Econometria e Machine Learning aplicados à Gestão de investimentos
+  * Supervisor: Rogério Oliveira
+  
+* 2021/05 : Data Economist
   * Empresa: Lalist
   * Atividades: Pesquisa em Estatística, Econometria e Machine Learning aplicados à Logística
   * Supervisor: Felipe Baulé
 
-* 2019 - atual: Sócio e Head de Pesquisa
+* 2020 - 2021/05 : Sócio e Head de Pesquisa
   * Empresa: Maza Asset Management
   * Atividades: Pesquisa em Estatística, Econometria e Machine Learning aplicados à Gestão de Investimentos
   * Supervisor: Abner Lima de Oliveira
@@ -35,7 +40,7 @@ Habilidades
   * Estatística
   * Ciência de Dados
   * Machine Learning
-* Programaçã em R
+* Programação em R, Python e SQL
 * Pesquisa Científica
 
 Publicações
