@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Portfolio Lucca Pavan"
 title_separator          : "-"
 name                     : &name "Lucca Pavan"
-description              : &description "Data Science Economist"
+description              : &description "Analista de modelagem e risco"
 url                      : https://luccapavan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luccapavan/luccapavan.github.io"
@@ -84,9 +84,8 @@ author:
   avatar           : "luccalalistfoto.png"
   bio              : "Doutor em economia pela UFPR -
   
-Sócio na Maza Asset management -
-
-Data Engineering Consultant na Lalist"
+Analista de modelagem e risco na Constância Investimentos -
+"
   location         : "Rio Claro, SP - Brasil"
   employer         :
   pubmed           : 
